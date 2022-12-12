@@ -1,42 +1,42 @@
-## 1. Project Name
-This is a project for COMP1800 titled ... 
+# Project Title
 
-## 2. Brief Project Description
+## 1. Project Description
+State your app in a nutshell, or one-sentence pitch. Give some elaboration on what the core features are.  
 This browser based web application to ... 
 
-
-## 3. Names of Contributors
-These are the members in our team: 
+## 2. Names of Contributors
+List team members and/or short bio's here... 
 * ...
 * ...
 * ...
 	
-## 4. Technologies Used
-Technologies used for this project:
-* HTML, CSS
-* JavaScript
-* Bootstrap 
+## 3. Technologies and Resources Used
+List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
+* HTML, CSS, JavaScript
+* Bootstrap 5.0 (Frontend library)
+* Firebase 8.0 (BAAS - Backend as a Service)
 * ...
 
-## 5. Complete setup/installion/usage
+## 4. Complete setup/installion/usage
+State what a user needs to do when they come to your project.  How do others start using your code or application?
 Here are the steps ...
 * ...
 * ...
 * ...
 
-## 6. Known Bugs
+## 5. Known Bugs and Limitations
 Here are some known bugs:
 * ...
 * ...
 * ...
 
-## 7. Features for Future
+## 6. Features for Future
 What we'd like to build in the future:
 * ...
 * ...
 * ...
 	
-## 8. Contents of Folder
+## 7. Contents of Folder
 Content of the project folder:
 
 ```
@@ -48,15 +48,14 @@ Content of the project folder:
 It has the following subfolders and files:
 ├── .git                     # Folder for git repo
 ├── images                   # Folder for images
-    /blah.jpg                # 
+    /blah.jpg                # Acknowledge source
 ├── scripts                  # Folder for scripts
     /blah.js                 # 
 ├── styles                   # Folder for styles
     /blah.css                # 
 
-Firebase hosting files: 
-├── .firebaserc...
 
 
 ```
+
 
